@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+    font-family: verdana;
+    color: white;
+    text-align: center;
+}
+
+h2{
+    font-size: 50px;
+    font-weight: lighter;
+}
+
+h3{
+    font-weight: 300;
+    font-size: 42px;
+}
+
+#download{
+    color: aquamarine;
+    font-size: 16px;
+    text-decoration: underline;
+}
+
+#description{
+    color:gray;
+    font-size: 21px;
+}
+
+#logo{
+    color: grey;
+    text-align: right;
+    font-size: 21px;
+}
